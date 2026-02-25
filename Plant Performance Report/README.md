@@ -1,5 +1,5 @@
-__🌱 Plant Performance Dashboard (Power BI)
-📌 Project Overview__
+__🌱 Plant Performance Dashboard (Power BI)__
+__📌 Project Overview__
 
 The Plant Performance Dashboard is an interactive Power BI analytics solution built using the Plant_DTS dataset.
 This dashboard focuses on manufacturing plant performance, downtime tracking, and production efficiency.
