@@ -164,5 +164,7 @@ Mobile dashboard version
 👨‍💻 Author
 
 Dhawal Bhawsar
+
 BTech Student | Data Analytics Enthusiast
+
 Power BI • SQL • Python • Data Visualization
