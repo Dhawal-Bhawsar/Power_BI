@@ -154,17 +154,15 @@ Explore plant performance insights.
 
 🔮 Future Enhancements
 
-Planned improvements:
-Predictive downtime forecasting
-Machine failure prediction using ML
-Real-time data integration
-Drill-through maintenance reports
-Mobile dashboard version
+Planned improvements: 
+Predictive downtime forecasting  
+Machine failure prediction using ML  
+Real-time data integration  
+Drill-through maintenance reports  
+Mobile dashboard version  
 
 👨‍💻 Author
 
-Dhawal Bhawsar
-
-BTech Student | Data Analytics Enthusiast
-
-Power BI • SQL • Python • Data Visualization
+Dhawal Bhawsar  
+BTech Student | Data Analytics Enthusiast   
+Power BI • SQL • Python • Data Visualization  
